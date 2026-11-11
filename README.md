@@ -17,3 +17,5 @@ cmake -B build-fuzz -DCMAKE_CXX_COMPILER=clang++ -DLSM_FUZZ=ON && cmake --build 
 ```
 
 See `docs/ROADMAP.md` for milestones and `NOTES.md` for the why-log.
+
+https://www.cs.umb.edu/~poneil/lsmtree.pdf
